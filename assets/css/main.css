@@ -184,7 +184,7 @@ input, select, textarea {
 	}
 
 	h3 {
-		font-size: 1.5em;
+		font-size: 1 em;
 		letter-spacing: -0.015em;
 	}
 
@@ -2448,3 +2448,7 @@ input, select, textarea {
 					}
 
 	}
+
+.para {
+	font-size: 2 px;
+}
